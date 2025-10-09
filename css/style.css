@@ -86,7 +86,21 @@
 .vk-btn {
     margin-right: 10px;
 }
-
+.bank-of-task {
+    margin: 30px 0;
+}
+.task1 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    width: 100px;
+    height: 100px;
+    background: #949494;
+    font-weight: 800;
+    font-size: 38px;
+    color: #000;
+}
 @media (max-width: 1299px) {
     .block_image {
     margin-left: 30px;
@@ -158,6 +172,7 @@
     color: #000;
     }
 } */
+
 
 
 
